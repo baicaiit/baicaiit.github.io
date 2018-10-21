@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="https://i.imgur.com/34lYdLD.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://i.postimg.cc/J4wLkvQV/34lYdLD.jpg" alt="baicai">
 
 ## About
 
